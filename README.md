@@ -1,1 +1,0 @@
-# Tugas-Manipulasi-Citra-Digital-Menggunakan-OpenCV
